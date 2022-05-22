@@ -1,0 +1,12 @@
+body {
+  background-color: #2f3242;
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  background-color: #007FB2;
+}
+
+.custom-input {
+  font-size: 18px;
+}
