@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       "users",
       "user_id,username,password",
       "username=$username",
-      "WHERE username=$username"
+      "WHERE username='$username'"
     );
 
     // $user = get_data_correct(
